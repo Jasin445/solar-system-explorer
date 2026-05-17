@@ -7,6 +7,19 @@
   margin: auto;
 }
 
+/* HEADER */
+header {
+  background-color: #051540;
+}
+ 
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 /* TYPOGRAPHY */
 
 h1 {
